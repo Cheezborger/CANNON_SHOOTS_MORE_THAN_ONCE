@@ -1,1 +1,2 @@
-# CANNON_SHOOTS_MORE_THAN_ONCE
+# PRO-C23-SA-boilerplate
+boilerplate code for C23
